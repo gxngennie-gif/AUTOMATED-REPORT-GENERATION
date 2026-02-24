@@ -38,7 +38,7 @@ Adding headings and styling
 
  *How the Project Works*
 
-1️1. The program reads employee data from data.csv.
+1️. The program reads employee data from data.csv.
 2️. It calculates salary statistics using pandas.
 3️. It groups employees by department and finds average salary.
 4️. It creates a structured PDF report using ReportLab.
