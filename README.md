@@ -49,3 +49,5 @@ A professional PDF file containing:
 Salary summary
 Department-wise salary table
 Proper formatting and structure
+
+<img width="405" height="224" alt="Image" src="https://github.com/user-attachments/assets/64fdafeb-aa6c-4eca-9404-f5b77545989e" />
